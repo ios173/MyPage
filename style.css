@@ -27,6 +27,17 @@ section {
     padding: 60px 20px;
 }
 
+#skills .card:first-child p {
+    color: blue;
+}
+
+#skills .card:third-child p {
+    color: blue;
+}
+
+#skills .card:second-child p {
+    color: blue;
+}
 .hero img {
     width: 180px;
     height: 180px;
