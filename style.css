@@ -31,11 +31,11 @@ section {
     color: blue;
 }
 
-#skills .card:third-child p {
+#skills .card:second-child p {
     color: blue;
 }
 
-#skills .card:second-child p {
+#skills .card:third-child p {
     color: blue;
 }
 .hero img {
